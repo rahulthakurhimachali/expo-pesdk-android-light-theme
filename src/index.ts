@@ -4,7 +4,7 @@ import type { AndroidManifest } from "@expo/config-plugins";
 import fs from "node:fs";
 import path from "node:path";
 
-// ─── 1. imgly_color.xml — light theme color overrides ────────────────────────
+// ─── 1. imgly_color.xml - light theme color overrides ────────────────────────
 // Values taken directly from the official PESDK React Native theming docs:
 // https://img.ly/docs/pesdk/react-native/guides/user-interface/theming/
 // These override the dark defaults that PESDK ships with.
@@ -58,7 +58,7 @@ const IMGLY_COLORS_XML = `<?xml version="1.0" encoding="utf-8"?>
 </resources>
 `;
 
-// ─── 2. AndroidManifest — windowBackground override ──────────────────────────
+// ─── 2. AndroidManifest - windowBackground override ──────────────────────────
 // Fixes the dark flash during the Android activity launch transition.
 // PESDK's default Theme.Imgly has a dark windowBackground which Android renders
 // before PESDK draws its first frame. We override it to white here.

@@ -107,7 +107,7 @@ export default function Index() {
 
       {!isAndroid && (
         <Text style={styles.platformNote}>
-          Android only — not supported on {Platform.OS}
+          Android only - not supported on {Platform.OS}
         </Text>
       )}
 

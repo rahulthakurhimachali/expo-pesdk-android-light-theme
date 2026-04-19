@@ -6,10 +6,10 @@ An [Expo config plugin](https://docs.expo.dev/config-plugins/introduction/) that
 
 PESDK ships with a dark theme by default (`Theme.Imgly`). On Android, this causes two issues:
 
-1. The entire editor UI is dark — there is no built-in way to switch to a light theme from JavaScript.
+1. The entire editor UI is dark - there is no built-in way to switch to a light theme from JavaScript.
 2. A dark screen flashes during the activity launch transition because PESDK's `windowBackground` is dark.
 
-This plugin fixes both automatically at build time via Expo's managed config system — no native code edits required.
+This plugin fixes both automatically at build time via Expo's managed config system - no native code edits required.
 
 ## What it does
 
@@ -76,12 +76,12 @@ All overridden colors live in `imgly_color.xml` and follow the [official PESDK t
 | `imgly_background_color` | `#EBEBEB` | Main editor background |
 | `imgly_actionBar_background_color` | `#FFFFFF` | Bottom toolbar background |
 | `imgly_optionToolBar_background_color` | `#F7F7F7` | Options panel background |
-| `imgly_text_color` | `#FF000000` | Primary text — black |
-| `imgly_icon_color` | `#CC000000` | Icons — dark |
+| `imgly_text_color` | `#FF000000` | Primary text - black |
+| `imgly_icon_color` | `#CC000000` | Icons - dark |
 | `imgly_highlight_color` | `#FF1B77FF` | Active/selected accent |
 
 ## License
 
-MIT — see [LICENSE](./LICENSE)
+MIT - see [LICENSE](./LICENSE)
 
 > PESDK itself requires a separate commercial license from [img.ly](https://img.ly/photo-editor-sdk/pricing).
