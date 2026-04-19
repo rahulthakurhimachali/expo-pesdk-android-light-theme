@@ -1,0 +1,435 @@
+diff --git a/node_modules/react-native-photoeditorsdk/android/build/.transforms/c5f25a5606bf12c6fa276dc5ba2f9731/results.bin b/node_modules/react-native-photoeditorsdk/android/build/.transforms/c5f25a5606bf12c6fa276dc5ba2f9731/results.bin
+new file mode 100644
+index 0000000..0d259dd
+--- /dev/null
++++ b/node_modules/react-native-photoeditorsdk/android/build/.transforms/c5f25a5606bf12c6fa276dc5ba2f9731/results.bin
+@@ -0,0 +1 @@
++o/classes
+diff --git a/node_modules/react-native-photoeditorsdk/android/build/.transforms/c5f25a5606bf12c6fa276dc5ba2f9731/transformed/classes/classes_dex/classes.dex b/node_modules/react-native-photoeditorsdk/android/build/.transforms/c5f25a5606bf12c6fa276dc5ba2f9731/transformed/classes/classes_dex/classes.dex
+new file mode 100644
+index 0000000..59923b4
+Binary files /dev/null and b/node_modules/react-native-photoeditorsdk/android/build/.transforms/c5f25a5606bf12c6fa276dc5ba2f9731/transformed/classes/classes_dex/classes.dex differ
+diff --git a/node_modules/react-native-photoeditorsdk/android/build/.transforms/caa374770e66656f6d17b8ad97d6baf8/results.bin b/node_modules/react-native-photoeditorsdk/android/build/.transforms/caa374770e66656f6d17b8ad97d6baf8/results.bin
+new file mode 100644
+index 0000000..7ed749e
+--- /dev/null
++++ b/node_modules/react-native-photoeditorsdk/android/build/.transforms/caa374770e66656f6d17b8ad97d6baf8/results.bin
+@@ -0,0 +1 @@
++o/bundleLibRuntimeToDirDebug
+diff --git a/node_modules/react-native-photoeditorsdk/android/build/.transforms/caa374770e66656f6d17b8ad97d6baf8/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/ly/img/react_native/pesdk/BuildConfig.dex b/node_modules/react-native-photoeditorsdk/android/build/.transforms/caa374770e66656f6d17b8ad97d6baf8/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/ly/img/react_native/pesdk/BuildConfig.dex
+new file mode 100644
+index 0000000..5f222d1
+Binary files /dev/null and b/node_modules/react-native-photoeditorsdk/android/build/.transforms/caa374770e66656f6d17b8ad97d6baf8/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/ly/img/react_native/pesdk/BuildConfig.dex differ
+diff --git a/node_modules/react-native-photoeditorsdk/android/build/.transforms/caa374770e66656f6d17b8ad97d6baf8/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/ly/img/react_native/pesdk/RNPhotoEditorSDKActivity.dex b/node_modules/react-native-photoeditorsdk/android/build/.transforms/caa374770e66656f6d17b8ad97d6baf8/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/ly/img/react_native/pesdk/RNPhotoEditorSDKActivity.dex
+new file mode 100644
+index 0000000..b2a9d21
+Binary files /dev/null and b/node_modules/react-native-photoeditorsdk/android/build/.transforms/caa374770e66656f6d17b8ad97d6baf8/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/ly/img/react_native/pesdk/RNPhotoEditorSDKActivity.dex differ
+diff --git a/node_modules/react-native-photoeditorsdk/android/build/.transforms/caa374770e66656f6d17b8ad97d6baf8/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/ly/img/react_native/pesdk/RNPhotoEditorSDKModule$Companion.dex b/node_modules/react-native-photoeditorsdk/android/build/.transforms/caa374770e66656f6d17b8ad97d6baf8/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/ly/img/react_native/pesdk/RNPhotoEditorSDKModule$Companion.dex
+new file mode 100644
+index 0000000..c9e2669
+Binary files /dev/null and b/node_modules/react-native-photoeditorsdk/android/build/.transforms/caa374770e66656f6d17b8ad97d6baf8/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/ly/img/react_native/pesdk/RNPhotoEditorSDKModule$Companion.dex differ
+diff --git a/node_modules/react-native-photoeditorsdk/android/build/.transforms/caa374770e66656f6d17b8ad97d6baf8/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/ly/img/react_native/pesdk/RNPhotoEditorSDKModule$IMGLYConstants.dex b/node_modules/react-native-photoeditorsdk/android/build/.transforms/caa374770e66656f6d17b8ad97d6baf8/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/ly/img/react_native/pesdk/RNPhotoEditorSDKModule$IMGLYConstants.dex
+new file mode 100644
+index 0000000..7e1eccf
+Binary files /dev/null and b/node_modules/react-native-photoeditorsdk/android/build/.transforms/caa374770e66656f6d17b8ad97d6baf8/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/ly/img/react_native/pesdk/RNPhotoEditorSDKModule$IMGLYConstants.dex differ
+diff --git a/node_modules/react-native-photoeditorsdk/android/build/.transforms/caa374770e66656f6d17b8ad97d6baf8/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/ly/img/react_native/pesdk/RNPhotoEditorSDKModule$ReactJSON.dex b/node_modules/react-native-photoeditorsdk/android/build/.transforms/caa374770e66656f6d17b8ad97d6baf8/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/ly/img/react_native/pesdk/RNPhotoEditorSDKModule$ReactJSON.dex
+new file mode 100644
+index 0000000..882b756
+Binary files /dev/null and b/node_modules/react-native-photoeditorsdk/android/build/.transforms/caa374770e66656f6d17b8ad97d6baf8/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/ly/img/react_native/pesdk/RNPhotoEditorSDKModule$ReactJSON.dex differ
+diff --git a/node_modules/react-native-photoeditorsdk/android/build/.transforms/caa374770e66656f6d17b8ad97d6baf8/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/ly/img/react_native/pesdk/RNPhotoEditorSDKModule$WhenMappings.dex b/node_modules/react-native-photoeditorsdk/android/build/.transforms/caa374770e66656f6d17b8ad97d6baf8/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/ly/img/react_native/pesdk/RNPhotoEditorSDKModule$WhenMappings.dex
+new file mode 100644
+index 0000000..a80c9ff
+Binary files /dev/null and b/node_modules/react-native-photoeditorsdk/android/build/.transforms/caa374770e66656f6d17b8ad97d6baf8/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/ly/img/react_native/pesdk/RNPhotoEditorSDKModule$WhenMappings.dex differ
+diff --git a/node_modules/react-native-photoeditorsdk/android/build/.transforms/caa374770e66656f6d17b8ad97d6baf8/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/ly/img/react_native/pesdk/RNPhotoEditorSDKModule$onActivityResult$$inlined$SequenceRunnable$default$1.dex b/node_modules/react-native-photoeditorsdk/android/build/.transforms/caa374770e66656f6d17b8ad97d6baf8/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/ly/img/react_native/pesdk/RNPhotoEditorSDKModule$onActivityResult$$inlined$SequenceRunnable$default$1.dex
+new file mode 100644
+index 0000000..bd45ec7
+Binary files /dev/null and b/node_modules/react-native-photoeditorsdk/android/build/.transforms/caa374770e66656f6d17b8ad97d6baf8/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/ly/img/react_native/pesdk/RNPhotoEditorSDKModule$onActivityResult$$inlined$SequenceRunnable$default$1.dex differ
+diff --git a/node_modules/react-native-photoeditorsdk/android/build/.transforms/caa374770e66656f6d17b8ad97d6baf8/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/ly/img/react_native/pesdk/RNPhotoEditorSDKModule$startEditor$$inlined$MainThreadRunnable$1.dex b/node_modules/react-native-photoeditorsdk/android/build/.transforms/caa374770e66656f6d17b8ad97d6baf8/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/ly/img/react_native/pesdk/RNPhotoEditorSDKModule$startEditor$$inlined$MainThreadRunnable$1.dex
+new file mode 100644
+index 0000000..a2f32cd
+Binary files /dev/null and b/node_modules/react-native-photoeditorsdk/android/build/.transforms/caa374770e66656f6d17b8ad97d6baf8/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/ly/img/react_native/pesdk/RNPhotoEditorSDKModule$startEditor$$inlined$MainThreadRunnable$1.dex differ
+diff --git a/node_modules/react-native-photoeditorsdk/android/build/.transforms/caa374770e66656f6d17b8ad97d6baf8/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/ly/img/react_native/pesdk/RNPhotoEditorSDKModule.dex b/node_modules/react-native-photoeditorsdk/android/build/.transforms/caa374770e66656f6d17b8ad97d6baf8/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/ly/img/react_native/pesdk/RNPhotoEditorSDKModule.dex
+new file mode 100644
+index 0000000..3ffd91c
+Binary files /dev/null and b/node_modules/react-native-photoeditorsdk/android/build/.transforms/caa374770e66656f6d17b8ad97d6baf8/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/ly/img/react_native/pesdk/RNPhotoEditorSDKModule.dex differ
+diff --git a/node_modules/react-native-photoeditorsdk/android/build/.transforms/caa374770e66656f6d17b8ad97d6baf8/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/ly/img/react_native/pesdk/RNPhotoEditorSDKPackage.dex b/node_modules/react-native-photoeditorsdk/android/build/.transforms/caa374770e66656f6d17b8ad97d6baf8/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/ly/img/react_native/pesdk/RNPhotoEditorSDKPackage.dex
+new file mode 100644
+index 0000000..474300a
+Binary files /dev/null and b/node_modules/react-native-photoeditorsdk/android/build/.transforms/caa374770e66656f6d17b8ad97d6baf8/transformed/bundleLibRuntimeToDirDebug/bundleLibRuntimeToDirDebug_dex/ly/img/react_native/pesdk/RNPhotoEditorSDKPackage.dex differ
+diff --git a/node_modules/react-native-photoeditorsdk/android/build/.transforms/caa374770e66656f6d17b8ad97d6baf8/transformed/bundleLibRuntimeToDirDebug/desugar_graph.bin b/node_modules/react-native-photoeditorsdk/android/build/.transforms/caa374770e66656f6d17b8ad97d6baf8/transformed/bundleLibRuntimeToDirDebug/desugar_graph.bin
+new file mode 100644
+index 0000000..601f245
+Binary files /dev/null and b/node_modules/react-native-photoeditorsdk/android/build/.transforms/caa374770e66656f6d17b8ad97d6baf8/transformed/bundleLibRuntimeToDirDebug/desugar_graph.bin differ
+diff --git a/node_modules/react-native-photoeditorsdk/android/build/generated/source/buildConfig/debug/ly/img/react_native/pesdk/BuildConfig.java b/node_modules/react-native-photoeditorsdk/android/build/generated/source/buildConfig/debug/ly/img/react_native/pesdk/BuildConfig.java
+new file mode 100644
+index 0000000..d158cd6
+--- /dev/null
++++ b/node_modules/react-native-photoeditorsdk/android/build/generated/source/buildConfig/debug/ly/img/react_native/pesdk/BuildConfig.java
+@@ -0,0 +1,10 @@
++/**
++ * Automatically generated file. DO NOT MODIFY
++ */
++package ly.img.react_native.pesdk;
++
++public final class BuildConfig {
++  public static final boolean DEBUG = Boolean.parseBoolean("true");
++  public static final String LIBRARY_PACKAGE_NAME = "ly.img.react_native.pesdk";
++  public static final String BUILD_TYPE = "debug";
++}
+diff --git a/node_modules/react-native-photoeditorsdk/android/build/intermediates/aapt_friendly_merged_manifests/debug/processDebugManifest/aapt/AndroidManifest.xml b/node_modules/react-native-photoeditorsdk/android/build/intermediates/aapt_friendly_merged_manifests/debug/processDebugManifest/aapt/AndroidManifest.xml
+new file mode 100644
+index 0000000..4ee6205
+--- /dev/null
++++ b/node_modules/react-native-photoeditorsdk/android/build/intermediates/aapt_friendly_merged_manifests/debug/processDebugManifest/aapt/AndroidManifest.xml
+@@ -0,0 +1,21 @@
++<?xml version="1.0" encoding="utf-8"?>
++<manifest xmlns:android="http://schemas.android.com/apk/res/android"
++    xmlns:tools="http://schemas.android.com/tools"
++    package="ly.img.react_native.pesdk" >
++
++    <uses-sdk android:minSdkVersion="24" />
++
++    <application>
++        <provider
++            android:name="ly.img.android.IMGLYAutoInit"
++            android:authorities="dollar_openBracket_applicationId_closeBracket.IMGLYAutoInit"
++            android:enabled="false"
++            android:exported="false"
++            tools:replace="android:enabled" />
++
++        <activity
++            android:name="ly.img.react_native.pesdk.RNPhotoEditorSDKActivity"
++            android:theme="@style/Theme.Imgly" />
++    </application>
++
++</manifest>
+\ No newline at end of file
+diff --git a/node_modules/react-native-photoeditorsdk/android/build/intermediates/aapt_friendly_merged_manifests/debug/processDebugManifest/aapt/output-metadata.json b/node_modules/react-native-photoeditorsdk/android/build/intermediates/aapt_friendly_merged_manifests/debug/processDebugManifest/aapt/output-metadata.json
+new file mode 100644
+index 0000000..66f7873
+--- /dev/null
++++ b/node_modules/react-native-photoeditorsdk/android/build/intermediates/aapt_friendly_merged_manifests/debug/processDebugManifest/aapt/output-metadata.json
+@@ -0,0 +1,18 @@
++{
++  "version": 3,
++  "artifactType": {
++    "type": "AAPT_FRIENDLY_MERGED_MANIFESTS",
++    "kind": "Directory"
++  },
++  "applicationId": "ly.img.react_native.pesdk",
++  "variantName": "debug",
++  "elements": [
++    {
++      "type": "SINGLE",
++      "filters": [],
++      "attributes": [],
++      "outputFile": "AndroidManifest.xml"
++    }
++  ],
++  "elementType": "File"
++}
+\ No newline at end of file
+diff --git a/node_modules/react-native-photoeditorsdk/android/build/intermediates/aar_metadata/debug/writeDebugAarMetadata/aar-metadata.properties b/node_modules/react-native-photoeditorsdk/android/build/intermediates/aar_metadata/debug/writeDebugAarMetadata/aar-metadata.properties
+new file mode 100644
+index 0000000..1211b1e
+--- /dev/null
++++ b/node_modules/react-native-photoeditorsdk/android/build/intermediates/aar_metadata/debug/writeDebugAarMetadata/aar-metadata.properties
+@@ -0,0 +1,6 @@
++aarFormatVersion=1.0
++aarMetadataVersion=1.0
++minCompileSdk=1
++minCompileSdkExtension=0
++minAndroidGradlePluginVersion=1.0.0
++coreLibraryDesugaringEnabled=false
+diff --git a/node_modules/react-native-photoeditorsdk/android/build/intermediates/annotation_processor_list/debug/javaPreCompileDebug/annotationProcessors.json b/node_modules/react-native-photoeditorsdk/android/build/intermediates/annotation_processor_list/debug/javaPreCompileDebug/annotationProcessors.json
+new file mode 100644
+index 0000000..629233d
+--- /dev/null
++++ b/node_modules/react-native-photoeditorsdk/android/build/intermediates/annotation_processor_list/debug/javaPreCompileDebug/annotationProcessors.json
+@@ -0,0 +1 @@
++{"build-ksp-plugin-10.10.6.jar (ly.img.android.sdk:build-ksp-plugin:10.10.6)":"KSP_PROCESSOR"}
+\ No newline at end of file
+diff --git a/node_modules/react-native-photoeditorsdk/android/build/intermediates/compile_library_classes_jar/debug/bundleLibCompileToJarDebug/classes.jar b/node_modules/react-native-photoeditorsdk/android/build/intermediates/compile_library_classes_jar/debug/bundleLibCompileToJarDebug/classes.jar
+new file mode 100644
+index 0000000..4a3003b
+Binary files /dev/null and b/node_modules/react-native-photoeditorsdk/android/build/intermediates/compile_library_classes_jar/debug/bundleLibCompileToJarDebug/classes.jar differ
+diff --git a/node_modules/react-native-photoeditorsdk/android/build/intermediates/compile_r_class_jar/debug/generateDebugRFile/R.jar b/node_modules/react-native-photoeditorsdk/android/build/intermediates/compile_r_class_jar/debug/generateDebugRFile/R.jar
+new file mode 100644
+index 0000000..876ea2b
+Binary files /dev/null and b/node_modules/react-native-photoeditorsdk/android/build/intermediates/compile_r_class_jar/debug/generateDebugRFile/R.jar differ
+diff --git a/node_modules/react-native-photoeditorsdk/android/build/intermediates/compile_symbol_list/debug/generateDebugRFile/R.txt b/node_modules/react-native-photoeditorsdk/android/build/intermediates/compile_symbol_list/debug/generateDebugRFile/R.txt
+new file mode 100644
+index 0000000..e69de29
+diff --git a/node_modules/react-native-photoeditorsdk/android/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties b/node_modules/react-native-photoeditorsdk/android/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties
+new file mode 100644
+index 0000000..36cbfd0
+--- /dev/null
++++ b/node_modules/react-native-photoeditorsdk/android/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties
+@@ -0,0 +1 @@
++#Sat Apr 18 13:41:01 IST 2026
+diff --git a/node_modules/react-native-photoeditorsdk/android/build/intermediates/incremental/debug/packageDebugResources/merger.xml b/node_modules/react-native-photoeditorsdk/android/build/intermediates/incremental/debug/packageDebugResources/merger.xml
+new file mode 100644
+index 0000000..629ebf6
+--- /dev/null
++++ b/node_modules/react-native-photoeditorsdk/android/build/intermediates/incremental/debug/packageDebugResources/merger.xml
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="utf-8"?>
++<merger version="3"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/chan/Desktop/expo-pesdk-android-light-theme/example/node_modules/react-native-photoeditorsdk/android/src/main/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/chan/Desktop/expo-pesdk-android-light-theme/example/node_modules/react-native-photoeditorsdk/android/src/main/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/chan/Desktop/expo-pesdk-android-light-theme/example/node_modules/react-native-photoeditorsdk/android/src/debug/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/chan/Desktop/expo-pesdk-android-light-theme/example/node_modules/react-native-photoeditorsdk/android/src/debug/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/chan/Desktop/expo-pesdk-android-light-theme/example/node_modules/react-native-photoeditorsdk/android/build/generated/res/resValues/debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated" generated-set="generated$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/chan/Desktop/expo-pesdk-android-light-theme/example/node_modules/react-native-photoeditorsdk/android/build/generated/res/resValues/debug"/></dataSet><mergedItems/></merger>
+\ No newline at end of file
+diff --git a/node_modules/react-native-photoeditorsdk/android/build/intermediates/incremental/mergeDebugAssets/merger.xml b/node_modules/react-native-photoeditorsdk/android/build/intermediates/incremental/mergeDebugAssets/merger.xml
+new file mode 100644
+index 0000000..65d352f
+--- /dev/null
++++ b/node_modules/react-native-photoeditorsdk/android/build/intermediates/incremental/mergeDebugAssets/merger.xml
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="utf-8"?>
++<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/chan/Desktop/expo-pesdk-android-light-theme/example/node_modules/react-native-photoeditorsdk/android/src/main/assets"/></dataSet><dataSet config="debug" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/chan/Desktop/expo-pesdk-android-light-theme/example/node_modules/react-native-photoeditorsdk/android/src/debug/assets"/></dataSet><dataSet config="generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/chan/Desktop/expo-pesdk-android-light-theme/example/node_modules/react-native-photoeditorsdk/android/build/intermediates/shader_assets/debug/compileDebugShaders/out"/></dataSet></merger>
+\ No newline at end of file
+diff --git a/node_modules/react-native-photoeditorsdk/android/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml b/node_modules/react-native-photoeditorsdk/android/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml
+new file mode 100644
+index 0000000..013d9d1
+--- /dev/null
++++ b/node_modules/react-native-photoeditorsdk/android/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="utf-8"?>
++<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/chan/Desktop/expo-pesdk-android-light-theme/example/node_modules/react-native-photoeditorsdk/android/src/main/jniLibs"/></dataSet><dataSet config="debug" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/chan/Desktop/expo-pesdk-android-light-theme/example/node_modules/react-native-photoeditorsdk/android/src/debug/jniLibs"/></dataSet></merger>
+\ No newline at end of file
+diff --git a/node_modules/react-native-photoeditorsdk/android/build/intermediates/incremental/mergeDebugShaders/merger.xml b/node_modules/react-native-photoeditorsdk/android/build/intermediates/incremental/mergeDebugShaders/merger.xml
+new file mode 100644
+index 0000000..37ef17f
+--- /dev/null
++++ b/node_modules/react-native-photoeditorsdk/android/build/intermediates/incremental/mergeDebugShaders/merger.xml
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="utf-8"?>
++<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/chan/Desktop/expo-pesdk-android-light-theme/example/node_modules/react-native-photoeditorsdk/android/src/main/shaders"/></dataSet><dataSet config="debug" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/chan/Desktop/expo-pesdk-android-light-theme/example/node_modules/react-native-photoeditorsdk/android/src/debug/shaders"/></dataSet></merger>
+\ No newline at end of file
+diff --git a/node_modules/react-native-photoeditorsdk/android/build/intermediates/java_res/debug/processDebugJavaRes/out/META-INF/react-native-photoeditorsdk_debug.kotlin_module b/node_modules/react-native-photoeditorsdk/android/build/intermediates/java_res/debug/processDebugJavaRes/out/META-INF/react-native-photoeditorsdk_debug.kotlin_module
+new file mode 100644
+index 0000000..9dbc290
+Binary files /dev/null and b/node_modules/react-native-photoeditorsdk/android/build/intermediates/java_res/debug/processDebugJavaRes/out/META-INF/react-native-photoeditorsdk_debug.kotlin_module differ
+diff --git a/node_modules/react-native-photoeditorsdk/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/ly/img/react_native/pesdk/BuildConfig.class b/node_modules/react-native-photoeditorsdk/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/ly/img/react_native/pesdk/BuildConfig.class
+new file mode 100644
+index 0000000..229a432
+Binary files /dev/null and b/node_modules/react-native-photoeditorsdk/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/ly/img/react_native/pesdk/BuildConfig.class differ
+diff --git a/node_modules/react-native-photoeditorsdk/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/ly/img/react_native/pesdk/RNPhotoEditorSDKPackage.class b/node_modules/react-native-photoeditorsdk/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/ly/img/react_native/pesdk/RNPhotoEditorSDKPackage.class
+new file mode 100644
+index 0000000..1c3fc8b
+Binary files /dev/null and b/node_modules/react-native-photoeditorsdk/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/ly/img/react_native/pesdk/RNPhotoEditorSDKPackage.class differ
+diff --git a/node_modules/react-native-photoeditorsdk/android/build/intermediates/local_only_symbol_list/debug/parseDebugLocalResources/R-def.txt b/node_modules/react-native-photoeditorsdk/android/build/intermediates/local_only_symbol_list/debug/parseDebugLocalResources/R-def.txt
+new file mode 100644
+index 0000000..78ac5b8
+--- /dev/null
++++ b/node_modules/react-native-photoeditorsdk/android/build/intermediates/local_only_symbol_list/debug/parseDebugLocalResources/R-def.txt
+@@ -0,0 +1,2 @@
++R_DEF: Internal format may change without notice
++local
+diff --git a/node_modules/react-native-photoeditorsdk/android/build/intermediates/manifest_merge_blame_file/debug/processDebugManifest/manifest-merger-blame-debug-report.txt b/node_modules/react-native-photoeditorsdk/android/build/intermediates/manifest_merge_blame_file/debug/processDebugManifest/manifest-merger-blame-debug-report.txt
+new file mode 100644
+index 0000000..1c4b42b
+--- /dev/null
++++ b/node_modules/react-native-photoeditorsdk/android/build/intermediates/manifest_merge_blame_file/debug/processDebugManifest/manifest-merger-blame-debug-report.txt
+@@ -0,0 +1,31 @@
++1<?xml version="1.0" encoding="utf-8"?>
++2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
++3    xmlns:tools="http://schemas.android.com/tools"
++4    package="ly.img.react_native.pesdk" >
++5
++6    <uses-sdk android:minSdkVersion="24" />
++7
++8    <application>
++8-->/Users/chan/Desktop/expo-pesdk-android-light-theme/example/node_modules/react-native-photoeditorsdk/android/src/main/AndroidManifest.xml:4:2-14:19
++9        <provider
++9-->/Users/chan/Desktop/expo-pesdk-android-light-theme/example/node_modules/react-native-photoeditorsdk/android/src/main/AndroidManifest.xml:5:9-10:59
++10            android:name="ly.img.android.IMGLYAutoInit"
++10-->/Users/chan/Desktop/expo-pesdk-android-light-theme/example/node_modules/react-native-photoeditorsdk/android/src/main/AndroidManifest.xml:10:13-56
++11            android:authorities="${applicationId}.IMGLYAutoInit"
++11-->/Users/chan/Desktop/expo-pesdk-android-light-theme/example/node_modules/react-native-photoeditorsdk/android/src/main/AndroidManifest.xml:7:13-65
++12            android:enabled="false"
++12-->/Users/chan/Desktop/expo-pesdk-android-light-theme/example/node_modules/react-native-photoeditorsdk/android/src/main/AndroidManifest.xml:9:13-36
++13            android:exported="false"
++13-->/Users/chan/Desktop/expo-pesdk-android-light-theme/example/node_modules/react-native-photoeditorsdk/android/src/main/AndroidManifest.xml:8:13-37
++14            tools:replace="android:enabled" />
++14-->/Users/chan/Desktop/expo-pesdk-android-light-theme/example/node_modules/react-native-photoeditorsdk/android/src/main/AndroidManifest.xml:6:13-44
++15
++16        <activity
++16-->/Users/chan/Desktop/expo-pesdk-android-light-theme/example/node_modules/react-native-photoeditorsdk/android/src/main/AndroidManifest.xml:11:9-13:56
++17            android:name="ly.img.react_native.pesdk.RNPhotoEditorSDKActivity"
++17-->/Users/chan/Desktop/expo-pesdk-android-light-theme/example/node_modules/react-native-photoeditorsdk/android/src/main/AndroidManifest.xml:13:13-53
++18            android:theme="@style/Theme.Imgly" />
++18-->/Users/chan/Desktop/expo-pesdk-android-light-theme/example/node_modules/react-native-photoeditorsdk/android/src/main/AndroidManifest.xml:12:13-47
++19    </application>
++20
++21</manifest>
+diff --git a/node_modules/react-native-photoeditorsdk/android/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml b/node_modules/react-native-photoeditorsdk/android/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml
+new file mode 100644
+index 0000000..aa34dc3
+--- /dev/null
++++ b/node_modules/react-native-photoeditorsdk/android/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml
+@@ -0,0 +1,21 @@
++<?xml version="1.0" encoding="utf-8"?>
++<manifest xmlns:android="http://schemas.android.com/apk/res/android"
++    xmlns:tools="http://schemas.android.com/tools"
++    package="ly.img.react_native.pesdk" >
++
++    <uses-sdk android:minSdkVersion="24" />
++
++    <application>
++        <provider
++            android:name="ly.img.android.IMGLYAutoInit"
++            android:authorities="${applicationId}.IMGLYAutoInit"
++            android:enabled="false"
++            android:exported="false"
++            tools:replace="android:enabled" />
++
++        <activity
++            android:name="ly.img.react_native.pesdk.RNPhotoEditorSDKActivity"
++            android:theme="@style/Theme.Imgly" />
++    </application>
++
++</manifest>
+\ No newline at end of file
+diff --git a/node_modules/react-native-photoeditorsdk/android/build/intermediates/navigation_json/debug/extractDeepLinksDebug/navigation.json b/node_modules/react-native-photoeditorsdk/android/build/intermediates/navigation_json/debug/extractDeepLinksDebug/navigation.json
+new file mode 100644
+index 0000000..0637a08
+--- /dev/null
++++ b/node_modules/react-native-photoeditorsdk/android/build/intermediates/navigation_json/debug/extractDeepLinksDebug/navigation.json
+@@ -0,0 +1 @@
++[]
+\ No newline at end of file
+diff --git a/node_modules/react-native-photoeditorsdk/android/build/intermediates/nested_resources_validation_report/debug/generateDebugResources/nestedResourcesValidationReport.txt b/node_modules/react-native-photoeditorsdk/android/build/intermediates/nested_resources_validation_report/debug/generateDebugResources/nestedResourcesValidationReport.txt
+new file mode 100644
+index 0000000..08f4ebe
+--- /dev/null
++++ b/node_modules/react-native-photoeditorsdk/android/build/intermediates/nested_resources_validation_report/debug/generateDebugResources/nestedResourcesValidationReport.txt
+@@ -0,0 +1 @@
++0 Warning/Error
+\ No newline at end of file
+diff --git a/node_modules/react-native-photoeditorsdk/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/META-INF/react-native-photoeditorsdk_debug.kotlin_module b/node_modules/react-native-photoeditorsdk/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/META-INF/react-native-photoeditorsdk_debug.kotlin_module
+new file mode 100644
+index 0000000..9dbc290
+Binary files /dev/null and b/node_modules/react-native-photoeditorsdk/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/META-INF/react-native-photoeditorsdk_debug.kotlin_module differ
+diff --git a/node_modules/react-native-photoeditorsdk/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/ly/img/react_native/pesdk/BuildConfig.class b/node_modules/react-native-photoeditorsdk/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/ly/img/react_native/pesdk/BuildConfig.class
+new file mode 100644
+index 0000000..229a432
+Binary files /dev/null and b/node_modules/react-native-photoeditorsdk/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/ly/img/react_native/pesdk/BuildConfig.class differ
+diff --git a/node_modules/react-native-photoeditorsdk/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/ly/img/react_native/pesdk/RNPhotoEditorSDKActivity.class b/node_modules/react-native-photoeditorsdk/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/ly/img/react_native/pesdk/RNPhotoEditorSDKActivity.class
+new file mode 100644
+index 0000000..cf8b727
+Binary files /dev/null and b/node_modules/react-native-photoeditorsdk/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/ly/img/react_native/pesdk/RNPhotoEditorSDKActivity.class differ
+diff --git a/node_modules/react-native-photoeditorsdk/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/ly/img/react_native/pesdk/RNPhotoEditorSDKModule$Companion.class b/node_modules/react-native-photoeditorsdk/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/ly/img/react_native/pesdk/RNPhotoEditorSDKModule$Companion.class
+new file mode 100644
+index 0000000..ac47105
+Binary files /dev/null and b/node_modules/react-native-photoeditorsdk/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/ly/img/react_native/pesdk/RNPhotoEditorSDKModule$Companion.class differ
+diff --git a/node_modules/react-native-photoeditorsdk/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/ly/img/react_native/pesdk/RNPhotoEditorSDKModule$IMGLYConstants.class b/node_modules/react-native-photoeditorsdk/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/ly/img/react_native/pesdk/RNPhotoEditorSDKModule$IMGLYConstants.class
+new file mode 100644
+index 0000000..d319de6
+Binary files /dev/null and b/node_modules/react-native-photoeditorsdk/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/ly/img/react_native/pesdk/RNPhotoEditorSDKModule$IMGLYConstants.class differ
+diff --git a/node_modules/react-native-photoeditorsdk/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/ly/img/react_native/pesdk/RNPhotoEditorSDKModule$ReactJSON.class b/node_modules/react-native-photoeditorsdk/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/ly/img/react_native/pesdk/RNPhotoEditorSDKModule$ReactJSON.class
+new file mode 100644
+index 0000000..d3e0b63
+Binary files /dev/null and b/node_modules/react-native-photoeditorsdk/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/ly/img/react_native/pesdk/RNPhotoEditorSDKModule$ReactJSON.class differ
+diff --git a/node_modules/react-native-photoeditorsdk/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/ly/img/react_native/pesdk/RNPhotoEditorSDKModule$WhenMappings.class b/node_modules/react-native-photoeditorsdk/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/ly/img/react_native/pesdk/RNPhotoEditorSDKModule$WhenMappings.class
+new file mode 100644
+index 0000000..2f19760
+Binary files /dev/null and b/node_modules/react-native-photoeditorsdk/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/ly/img/react_native/pesdk/RNPhotoEditorSDKModule$WhenMappings.class differ
+diff --git a/node_modules/react-native-photoeditorsdk/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/ly/img/react_native/pesdk/RNPhotoEditorSDKModule$onActivityResult$$inlined$SequenceRunnable$default$1.class b/node_modules/react-native-photoeditorsdk/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/ly/img/react_native/pesdk/RNPhotoEditorSDKModule$onActivityResult$$inlined$SequenceRunnable$default$1.class
+new file mode 100644
+index 0000000..b411c21
+Binary files /dev/null and b/node_modules/react-native-photoeditorsdk/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/ly/img/react_native/pesdk/RNPhotoEditorSDKModule$onActivityResult$$inlined$SequenceRunnable$default$1.class differ
+diff --git a/node_modules/react-native-photoeditorsdk/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/ly/img/react_native/pesdk/RNPhotoEditorSDKModule$startEditor$$inlined$MainThreadRunnable$1.class b/node_modules/react-native-photoeditorsdk/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/ly/img/react_native/pesdk/RNPhotoEditorSDKModule$startEditor$$inlined$MainThreadRunnable$1.class
+new file mode 100644
+index 0000000..14d93d3
+Binary files /dev/null and b/node_modules/react-native-photoeditorsdk/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/ly/img/react_native/pesdk/RNPhotoEditorSDKModule$startEditor$$inlined$MainThreadRunnable$1.class differ
+diff --git a/node_modules/react-native-photoeditorsdk/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/ly/img/react_native/pesdk/RNPhotoEditorSDKModule.class b/node_modules/react-native-photoeditorsdk/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/ly/img/react_native/pesdk/RNPhotoEditorSDKModule.class
+new file mode 100644
+index 0000000..42cb28c
+Binary files /dev/null and b/node_modules/react-native-photoeditorsdk/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/ly/img/react_native/pesdk/RNPhotoEditorSDKModule.class differ
+diff --git a/node_modules/react-native-photoeditorsdk/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/ly/img/react_native/pesdk/RNPhotoEditorSDKPackage.class b/node_modules/react-native-photoeditorsdk/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/ly/img/react_native/pesdk/RNPhotoEditorSDKPackage.class
+new file mode 100644
+index 0000000..1c3fc8b
+Binary files /dev/null and b/node_modules/react-native-photoeditorsdk/android/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/ly/img/react_native/pesdk/RNPhotoEditorSDKPackage.class differ
+diff --git a/node_modules/react-native-photoeditorsdk/android/build/intermediates/runtime_library_classes_jar/debug/bundleLibRuntimeToJarDebug/classes.jar b/node_modules/react-native-photoeditorsdk/android/build/intermediates/runtime_library_classes_jar/debug/bundleLibRuntimeToJarDebug/classes.jar
+new file mode 100644
+index 0000000..8037ae2
+Binary files /dev/null and b/node_modules/react-native-photoeditorsdk/android/build/intermediates/runtime_library_classes_jar/debug/bundleLibRuntimeToJarDebug/classes.jar differ
+diff --git a/node_modules/react-native-photoeditorsdk/android/build/intermediates/symbol_list_with_package_name/debug/generateDebugRFile/package-aware-r.txt b/node_modules/react-native-photoeditorsdk/android/build/intermediates/symbol_list_with_package_name/debug/generateDebugRFile/package-aware-r.txt
+new file mode 100644
+index 0000000..4144a81
+--- /dev/null
++++ b/node_modules/react-native-photoeditorsdk/android/build/intermediates/symbol_list_with_package_name/debug/generateDebugRFile/package-aware-r.txt
+@@ -0,0 +1 @@
++ly.img.react_native.pesdk
+diff --git a/node_modules/react-native-photoeditorsdk/android/build/kotlin/compileDebugKotlin/cacheable/dirty-sources.txt b/node_modules/react-native-photoeditorsdk/android/build/kotlin/compileDebugKotlin/cacheable/dirty-sources.txt
+new file mode 100644
+index 0000000..6e5dc27
+--- /dev/null
++++ b/node_modules/react-native-photoeditorsdk/android/build/kotlin/compileDebugKotlin/cacheable/dirty-sources.txt
+@@ -0,0 +1 @@
++/Users/chan/Desktop/expo-pesdk-android-light-theme/example/node_modules/react-native-photoeditorsdk/android/src/main/java/ly/img/react_native/pesdk/RNPhotoEditorSDKModule.kt
+\ No newline at end of file
+diff --git a/node_modules/react-native-photoeditorsdk/android/build/kotlin/compileDebugKotlin/local-state/build-history.bin b/node_modules/react-native-photoeditorsdk/android/build/kotlin/compileDebugKotlin/local-state/build-history.bin
+new file mode 100644
+index 0000000..2eba1d6
+Binary files /dev/null and b/node_modules/react-native-photoeditorsdk/android/build/kotlin/compileDebugKotlin/local-state/build-history.bin differ
+diff --git a/node_modules/react-native-photoeditorsdk/android/build/outputs/logs/manifest-merger-debug-report.txt b/node_modules/react-native-photoeditorsdk/android/build/outputs/logs/manifest-merger-debug-report.txt
+new file mode 100644
+index 0000000..8c5a645
+--- /dev/null
++++ b/node_modules/react-native-photoeditorsdk/android/build/outputs/logs/manifest-merger-debug-report.txt
+@@ -0,0 +1,39 @@
++-- Merging decision tree log ---
++manifest
++ADDED from /Users/chan/Desktop/expo-pesdk-android-light-theme/example/node_modules/react-native-photoeditorsdk/android/src/main/AndroidManifest.xml:1:1-15:12
++INJECTED from /Users/chan/Desktop/expo-pesdk-android-light-theme/example/node_modules/react-native-photoeditorsdk/android/src/main/AndroidManifest.xml:1:1-15:12
++	package
++		ADDED from /Users/chan/Desktop/expo-pesdk-android-light-theme/example/node_modules/react-native-photoeditorsdk/android/src/main/AndroidManifest.xml:3:11-46
++		INJECTED from /Users/chan/Desktop/expo-pesdk-android-light-theme/example/node_modules/react-native-photoeditorsdk/android/src/main/AndroidManifest.xml
++	xmlns:tools
++		ADDED from /Users/chan/Desktop/expo-pesdk-android-light-theme/example/node_modules/react-native-photoeditorsdk/android/src/main/AndroidManifest.xml:2:11-57
++	xmlns:android
++		ADDED from /Users/chan/Desktop/expo-pesdk-android-light-theme/example/node_modules/react-native-photoeditorsdk/android/src/main/AndroidManifest.xml:1:11-69
++application
++ADDED from /Users/chan/Desktop/expo-pesdk-android-light-theme/example/node_modules/react-native-photoeditorsdk/android/src/main/AndroidManifest.xml:4:2-14:19
++provider#ly.img.android.IMGLYAutoInit
++ADDED from /Users/chan/Desktop/expo-pesdk-android-light-theme/example/node_modules/react-native-photoeditorsdk/android/src/main/AndroidManifest.xml:5:9-10:59
++	android:enabled
++		ADDED from /Users/chan/Desktop/expo-pesdk-android-light-theme/example/node_modules/react-native-photoeditorsdk/android/src/main/AndroidManifest.xml:9:13-36
++	android:authorities
++		ADDED from /Users/chan/Desktop/expo-pesdk-android-light-theme/example/node_modules/react-native-photoeditorsdk/android/src/main/AndroidManifest.xml:7:13-65
++	android:exported
++		ADDED from /Users/chan/Desktop/expo-pesdk-android-light-theme/example/node_modules/react-native-photoeditorsdk/android/src/main/AndroidManifest.xml:8:13-37
++	tools:replace
++		ADDED from /Users/chan/Desktop/expo-pesdk-android-light-theme/example/node_modules/react-native-photoeditorsdk/android/src/main/AndroidManifest.xml:6:13-44
++	android:name
++		ADDED from /Users/chan/Desktop/expo-pesdk-android-light-theme/example/node_modules/react-native-photoeditorsdk/android/src/main/AndroidManifest.xml:10:13-56
++activity#ly.img.react_native.pesdk.RNPhotoEditorSDKActivity
++ADDED from /Users/chan/Desktop/expo-pesdk-android-light-theme/example/node_modules/react-native-photoeditorsdk/android/src/main/AndroidManifest.xml:11:9-13:56
++	android:theme
++		ADDED from /Users/chan/Desktop/expo-pesdk-android-light-theme/example/node_modules/react-native-photoeditorsdk/android/src/main/AndroidManifest.xml:12:13-47
++	android:name
++		ADDED from /Users/chan/Desktop/expo-pesdk-android-light-theme/example/node_modules/react-native-photoeditorsdk/android/src/main/AndroidManifest.xml:13:13-53
++uses-sdk
++INJECTED from /Users/chan/Desktop/expo-pesdk-android-light-theme/example/node_modules/react-native-photoeditorsdk/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
++INJECTED from /Users/chan/Desktop/expo-pesdk-android-light-theme/example/node_modules/react-native-photoeditorsdk/android/src/main/AndroidManifest.xml
++INJECTED from /Users/chan/Desktop/expo-pesdk-android-light-theme/example/node_modules/react-native-photoeditorsdk/android/src/main/AndroidManifest.xml
++	android:targetSdkVersion
++		INJECTED from /Users/chan/Desktop/expo-pesdk-android-light-theme/example/node_modules/react-native-photoeditorsdk/android/src/main/AndroidManifest.xml
++	android:minSdkVersion
++		INJECTED from /Users/chan/Desktop/expo-pesdk-android-light-theme/example/node_modules/react-native-photoeditorsdk/android/src/main/AndroidManifest.xml
+diff --git a/node_modules/react-native-photoeditorsdk/android/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin b/node_modules/react-native-photoeditorsdk/android/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin
+new file mode 100644
+index 0000000..44fcb5a
+Binary files /dev/null and b/node_modules/react-native-photoeditorsdk/android/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin differ
+diff --git a/node_modules/react-native-photoeditorsdk/android/src/main/java/ly/img/react_native/pesdk/RNPhotoEditorSDKModule.kt b/node_modules/react-native-photoeditorsdk/android/src/main/java/ly/img/react_native/pesdk/RNPhotoEditorSDKModule.kt
+index a213093..36c146c 100644
+--- a/node_modules/react-native-photoeditorsdk/android/src/main/java/ly/img/react_native/pesdk/RNPhotoEditorSDKModule.kt
++++ b/node_modules/react-native-photoeditorsdk/android/src/main/java/ly/img/react_native/pesdk/RNPhotoEditorSDKModule.kt
+@@ -190,7 +190,7 @@ class RNPhotoEditorSDKModule(val reactContext: ReactApplicationContext) : ReactC
+     }
+ 
+     private fun startEditor(settingsList: PhotoEditorSettingsList?) {
+-        val currentActivity = this.currentActivity ?: throw RuntimeException("Can't start the Editor because there is no current activity")
++        val currentActivity = reactContext.currentActivity ?: throw RuntimeException("Can't start the Editor because there is no current activity")
+         if (settingsList != null) {
+             MainThreadRunnable {
+                 PhotoEditorBuilder(currentActivity, RNPhotoEditorSDKActivity::class.java)
