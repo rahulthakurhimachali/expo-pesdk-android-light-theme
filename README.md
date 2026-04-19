@@ -84,4 +84,8 @@ All overridden colors live in `imgly_color.xml` and follow the [official PESDK t
 
 MIT - see [LICENSE](./LICENSE)
 
+## Report Issues
+
+Open issues at: https://github.com/rahulthakurhimachali/expo-pesdk-android-light-theme/issues
+
 > PESDK itself requires a separate commercial license from [img.ly](https://img.ly/photo-editor-sdk/pricing).

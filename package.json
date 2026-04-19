@@ -23,6 +23,15 @@
     "theme",
     "dark-theme-fix"
   ],
+  "author": "rahulthakurhimachali <rahulthakurhimachali@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahulthakurhimachali/expo-pesdk-android-light-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rahulthakurhimachali/expo-pesdk-android-light-theme/issues"
+  },
+  "homepage": "https://github.com/rahulthakurhimachali/expo-pesdk-android-light-theme#readme",
   "license": "MIT",
   "peerDependencies": {
     "@expo/config-plugins": ">=9.0.0",
