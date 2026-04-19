@@ -1,0 +1,37 @@
+# Dependencies
+node_modules/
+
+# Build output (regenerated via `npm run build`)
+build/
+
+# TypeScript
+*.tsbuildinfo
+
+# Expo
+.expo/
+
+# Generated native folders (inside example/)
+example/android/
+example/ios/
+example/.expo/
+example/dist/
+example/web-build/
+example/expo-env.d.ts
+
+# macOS
+.DS_Store
+*.pem
+
+# Logs
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+*.log
+
+# Local env
+.env
+.env*.local
+
+# Editor
+.vscode/
+.idea/

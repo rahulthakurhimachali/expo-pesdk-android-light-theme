@@ -1,0 +1,36 @@
+{
+  "name": "expo-pesdk-android-light-theme",
+  "version": "1.0.0",
+  "description": "Expo config plugin that applies the PESDK Android light theme and fixes the dark launch-transition flash",
+  "main": "build/index.js",
+  "types": "build/index.d.ts",
+  "files": [
+    "build"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "expo",
+    "expo-plugin",
+    "expo-config-plugin",
+    "pesdk",
+    "photo-editor-sdk",
+    "imgly",
+    "img.ly",
+    "android",
+    "light-theme",
+    "theme",
+    "dark-theme-fix"
+  ],
+  "license": "MIT",
+  "peerDependencies": {
+    "@expo/config-plugins": ">=9.0.0",
+    "expo": ">=49.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^25.6.0",
+    "expo": "^55.0.0",
+    "typescript": "^5.0.0"
+  }
+}
